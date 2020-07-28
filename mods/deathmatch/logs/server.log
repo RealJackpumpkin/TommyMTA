@@ -1,0 +1,1321 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 05:17:25] File 'settings.xml' not present, creating new node.
+[2020-07-25 05:17:33] Resources: 191 loaded, 0 failed
+[2020-07-25 05:17:33] Starting resources...
+[2020-07-25 05:17:33] Admin access list successfully updated 
+[2020-07-25 05:17:33] INFO: Admin added 506 missing rights
+[2020-07-25 05:17:33] Server minclientversion is now 1.3.0-9.04311
+[2020-07-25 05:17:33] Server minclientversion is now 1.5.6-9.16362
+[2020-07-25 05:17:33] Gamemode 'play' started.
+[2020-07-25 05:17:33] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 05:17:33] WARNING: <owner_email_address> not set
+[2020-07-25 05:17:33] Server started and is ready to accept connections!
+[2020-07-25 05:17:33] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 05:17:33] Type 'help' for a list of commands.
+[2020-07-25 05:17:35] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 05:18:39] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 05:18:39] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 05:18:53] QUIT: DelicateAnteater6 left the game [Timed out]
+[2020-07-25 05:19:38] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 05:19:52] QUIT: DelicateAnteater6 left the game [Timed out]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 06:35:20] Compacting accounts database 'internal.db' ...
+[2020-07-25 06:35:21] Resources: 191 loaded, 0 failed
+[2020-07-25 06:35:21] Compacting database 'registry.db' ...
+[2020-07-25 06:35:21] Starting resources...
+[2020-07-25 06:35:21] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 06:35:21] Gamemode 'play' started.
+[2020-07-25 06:35:21] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 06:35:21] WARNING: <owner_email_address> not set
+[2020-07-25 06:35:21] Server started and is ready to accept connections!
+[2020-07-25 06:35:21] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 06:35:21] Type 'help' for a list of commands.
+[2020-07-25 06:35:21] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 06:35:30] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 06:35:30] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 06:37:28] QUIT: DelicateAnteater6 left the game [Quit]
+[2020-07-25 06:42:45] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 06:42:47] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 06:42:49] DIAGNOSTIC: DelicateAnteater6 #1013 HTTP server file mismatch (admin) question.png [Got size:0 MD5:00000000000000000000000000000000, wanted MD5:D466259CFD984A83C06E2A7AAA897A78]
+[2020-07-25 07:11:36] HTTP: Failed login attempt for user 'admin' from 127.0.0.1
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:31:09] Resources: 1 loaded, 0 failed
+[2020-07-25 07:31:09] Starting resources...
+[2020-07-25 07:31:09] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:31:09] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:31:09] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:31:09] WARNING: <owner_email_address> not set
+[2020-07-25 07:31:09] Server started and is ready to accept connections!
+[2020-07-25 07:31:09] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:31:09] Type 'help' for a list of commands.
+[2020-07-25 07:31:10] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:31:18] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:31:18] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:31:18] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:39:07] Resources: 1 loaded, 0 failed
+[2020-07-25 07:39:07] Starting resources...
+[2020-07-25 07:39:07] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:39:07] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:39:07] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:39:07] WARNING: <owner_email_address> not set
+[2020-07-25 07:39:07] Server started and is ready to accept connections!
+[2020-07-25 07:39:07] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:39:07] Type 'help' for a list of commands.
+[2020-07-25 07:39:07] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:39:15] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:39:15] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:39:15] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:42:01] Resources: 1 loaded, 0 failed
+[2020-07-25 07:42:01] Starting resources...
+[2020-07-25 07:42:01] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:42:01] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:42:01] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:42:01] WARNING: <owner_email_address> not set
+[2020-07-25 07:42:01] Server started and is ready to accept connections!
+[2020-07-25 07:42:01] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:42:01] Type 'help' for a list of commands.
+[2020-07-25 07:42:01] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:42:06] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:42:06] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:42:07] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 07:42:17] QUIT: DelicateAnteater6 left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:46:36] Resources: 1 loaded, 0 failed
+[2020-07-25 07:46:36] Starting resources...
+[2020-07-25 07:46:36] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:46:36] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:46:36] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:46:36] WARNING: <owner_email_address> not set
+[2020-07-25 07:46:36] Server started and is ready to accept connections!
+[2020-07-25 07:46:36] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:46:36] Type 'help' for a list of commands.
+[2020-07-25 07:46:37] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:46:47] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:46:47] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:46:47] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 07:49:13] QUIT: DelicateAnteater6 left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:50:02] Resources: 1 loaded, 0 failed
+[2020-07-25 07:50:02] Starting resources...
+[2020-07-25 07:50:02] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:50:02] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:50:02] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:50:02] WARNING: <owner_email_address> not set
+[2020-07-25 07:50:02] Server started and is ready to accept connections!
+[2020-07-25 07:50:02] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:50:02] Type 'help' for a list of commands.
+[2020-07-25 07:50:03] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:50:08] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:50:08] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:50:08] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 07:50:16] QUIT: DelicateAnteater6 left the game [Quit]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..yMTA/server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 07:52:30] Resources: 1 loaded, 0 failed
+[2020-07-25 07:52:30] Starting resources...
+[2020-07-25 07:52:30] SCRIPT ERROR: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:52:30] ERROR: Loading script failed: players\players.lua:1: unexpected symbol near '/'
+[2020-07-25 07:52:30] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 07:52:30] WARNING: <owner_email_address> not set
+[2020-07-25 07:52:30] Server started and is ready to accept connections!
+[2020-07-25 07:52:30] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 07:52:30] Type 'help' for a list of commands.
+[2020-07-25 07:52:31] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 07:52:35] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 07:52:35] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 07:52:35] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 07:52:48] Server stopped!
+[2020-07-25 07:52:48] Stopping resources....
+[2020-07-25 07:52:48] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:08:04] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:08:04] Resources: 1 loaded, 0 failed
+[2020-07-25 08:08:04] Starting resources....
+[2020-07-25 08:08:04] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:08:04] WARNING: <owner_email_address> not set
+[2020-07-25 08:08:04] Server started and is ready to accept connections!
+[2020-07-25 08:08:04] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:08:04] Type 'help' for a list of commands.
+[2020-07-25 08:08:04] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:08:13] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:08:13] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:08:13] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:08:13] ERROR: players\players.lua:7: attempt to call global 'setCameraTarger' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:11:25] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:11:25] Resources: 1 loaded, 0 failed
+[2020-07-25 08:11:25] Starting resources....
+[2020-07-25 08:11:25] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:11:25] WARNING: <owner_email_address> not set
+[2020-07-25 08:11:25] Server started and is ready to accept connections!
+[2020-07-25 08:11:25] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:11:25] Type 'help' for a list of commands.
+[2020-07-25 08:11:26] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:11:34] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:11:34] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:11:34] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:11:34] ERROR: players\players.lua:7: attempt to call global 'setCameraTarger' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:12:06] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:12:06] Resources: 1 loaded, 0 failed
+[2020-07-25 08:12:06] Starting resources....
+[2020-07-25 08:12:06] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:12:06] WARNING: <owner_email_address> not set
+[2020-07-25 08:12:06] Server started and is ready to accept connections!
+[2020-07-25 08:12:06] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:12:06] Type 'help' for a list of commands.
+[2020-07-25 08:12:07] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:12:13] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:12:13] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:12:13] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:12:13] ERROR: players\players.lua:7: attempt to call global 'setCameraTarger' (a nil value)
+[2020-07-25 08:15:11] Server stopped!
+[2020-07-25 08:15:11] Stopping resources....
+[2020-07-25 08:15:11] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:15:15] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:15:15] Resources: 1 loaded, 0 failed
+[2020-07-25 08:15:16] Starting resources....
+[2020-07-25 08:15:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:15:16] WARNING: <owner_email_address> not set
+[2020-07-25 08:15:16] Server started and is ready to accept connections!
+[2020-07-25 08:15:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:15:16] Type 'help' for a list of commands.
+[2020-07-25 08:15:16] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:15:43] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:15:43] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:15:43] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:15:43] ERROR: players\players.lua:7: attempt to call global 'setCameraTarger' (a nil value)
+[2020-07-25 08:18:54] Server stopped!
+[2020-07-25 08:18:54] Stopping resources....
+[2020-07-25 08:18:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:19:13] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:19:13] Resources: 1 loaded, 0 failed
+[2020-07-25 08:19:13] Starting resources....
+[2020-07-25 08:19:13] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:19:13] WARNING: <owner_email_address> not set
+[2020-07-25 08:19:13] Server started and is ready to accept connections!
+[2020-07-25 08:19:13] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:19:13] Type 'help' for a list of commands.
+[2020-07-25 08:19:13] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:19:20] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:19:20] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:19:20] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:19:20] ERROR: players\players.lua:7: attempt to call global 'setCameraTarger' (a nil value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:21:12] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:21:12] Resources: 1 loaded, 0 failed
+[2020-07-25 08:21:12] Starting resources....
+[2020-07-25 08:21:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:21:12] WARNING: <owner_email_address> not set
+[2020-07-25 08:21:12] Server started and is ready to accept connections!
+[2020-07-25 08:21:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:21:12] Type 'help' for a list of commands.
+[2020-07-25 08:21:13] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:21:17] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:21:17] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:21:17] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:21:32] Server stopped!
+[2020-07-25 08:21:32] Stopping resources....
+[2020-07-25 08:21:32] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:21:56] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:21:56] Resources: 1 loaded, 0 failed
+[2020-07-25 08:21:56] Starting resources....
+[2020-07-25 08:21:56] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:21:56] WARNING: <owner_email_address> not set
+[2020-07-25 08:21:56] Server started and is ready to accept connections!
+[2020-07-25 08:21:56] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:21:56] Type 'help' for a list of commands.
+[2020-07-25 08:21:56] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:22:02] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:22:02] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:22:02] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:31:14] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 08:31:14] New resource 'vehicles' loaded
+[2020-07-25 08:31:14] Resources: 2 loaded, 0 failed
+[2020-07-25 08:31:37] start: Requested by Console
+[2020-07-25 08:31:37] Starting vehicles
+[2020-07-25 08:31:37] start: Resource 'vehicles' started
+[2020-07-25 08:34:16] stop: Requested by Console
+[2020-07-25 08:34:16] stop: Resource stopping
+[2020-07-25 08:34:16] Stopping vehicles
+[2020-07-25 08:34:22] start: Requested by Console
+[2020-07-25 08:34:22] Starting vehicles
+[2020-07-25 08:34:22] start: Resource 'vehicles' started
+[2020-07-25 08:40:46] stop: Requested by Console
+[2020-07-25 08:40:46] stop: Resource stopping
+[2020-07-25 08:40:46] Stopping vehicles
+[2020-07-25 08:40:49] start: Requested by Console
+[2020-07-25 08:40:49] Starting vehicles
+[2020-07-25 08:40:49] start: Resource 'vehicles' started
+[2020-07-25 08:40:59] stop: Requested by Console
+[2020-07-25 08:40:59] stop: Resource stopping
+[2020-07-25 08:40:59] Stopping vehicles
+[2020-07-25 08:41:01] start: Requested by Console
+[2020-07-25 08:41:01] Resource 'vehicles' changed, reloading and starting
+[2020-07-25 08:41:01] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 08:41:01] Starting vehicles
+[2020-07-25 08:41:01] start: Resource 'vehicles' started
+[2020-07-25 08:41:15] stop: Requested by Console
+[2020-07-25 08:41:15] stop: Resource stopping
+[2020-07-25 08:41:15] Stopping vehicles
+[2020-07-25 08:45:24] start: Requested by Console
+[2020-07-25 08:45:24] Starting vehicles
+[2020-07-25 08:45:24] start: Resource 'vehicles' started
+[2020-07-25 08:47:46] restart: Requested by Console
+[2020-07-25 08:47:46] restart: Resource restarting...
+[2020-07-25 08:47:46] Stopping vehicles
+[2020-07-25 08:47:46] Resource 'vehicles' changed, reloading and starting
+[2020-07-25 08:47:46] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 08:47:46] Starting vehicles
+[2020-07-25 08:47:46] vehicles restarted successfully
+[2020-07-25 08:48:29] stop: Requested by Console
+[2020-07-25 08:48:29] stop: Resource stopping
+[2020-07-25 08:48:29] Stopping vehicles
+[2020-07-25 08:48:36] start: Requested by Console
+[2020-07-25 08:48:36] Resource 'vehicles' changed, reloading and starting
+[2020-07-25 08:48:36] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 08:48:36] Starting vehicles
+[2020-07-25 08:48:36] start: Resource 'vehicles' started
+[2020-07-25 08:55:33] ERROR: Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 08:55:33] Loading of resource 'fpslimit' failed
+[2020-07-25 08:55:33] ERROR: Problem with resource: fpslimit; Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 08:55:33] Resources: 2 loaded, 1 failed
+[2020-07-25 08:55:42] Server stopped!
+[2020-07-25 08:55:42] Stopping resources.....
+[2020-07-25 08:55:42] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 08:55:49] ERROR: Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 08:55:49] Loading of resource 'fpslimit' failed
+[2020-07-25 08:55:49] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 08:55:49] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 08:55:49] ERROR: Problem with resource: fpslimit; Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 08:55:49] Resources: 2 loaded, 1 failed
+[2020-07-25 08:55:49] Starting resources....
+[2020-07-25 08:55:49] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 08:55:49] WARNING: <owner_email_address> not set
+[2020-07-25 08:55:49] Server started and is ready to accept connections!
+[2020-07-25 08:55:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 08:55:49] Type 'help' for a list of commands.
+[2020-07-25 08:55:49] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 08:55:54] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 08:55:54] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 08:55:55] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 08:56:23] start: Resource could not be found
+[2020-07-25 08:56:28] start: Requested by Console
+[2020-07-25 08:56:28] Starting vehicles
+[2020-07-25 08:56:28] start: Resource 'vehicles' started
+[2020-07-25 09:02:07] Server stopped!
+[2020-07-25 09:02:07] Stopping resources.....
+[2020-07-25 09:02:07] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-25 09:02:15] ERROR: Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 09:02:15] Loading of resource 'fpslimit' failed
+[2020-07-25 09:02:15] Unknown script type specified in players. Assuming 'server'
+[2020-07-25 09:02:15] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-25 09:02:15] ERROR: Problem with resource: fpslimit; Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 09:02:15] Resources: 2 loaded, 1 failed
+[2020-07-25 09:02:15] Starting resources....
+[2020-07-25 09:02:15] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-25 09:02:15] WARNING: <owner_email_address> not set
+[2020-07-25 09:02:15] Server started and is ready to accept connections!
+[2020-07-25 09:02:15] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-25 09:02:15] Type 'help' for a list of commands.
+[2020-07-25 09:02:16] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-25 09:02:21] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-25 09:02:21] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-25 09:02:22] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-25 09:02:33] start: Requested by Console
+[2020-07-25 09:02:33] start: Resource is loaded, but has errors (Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.])
+[2020-07-25 09:02:55] start: Requested by Console
+[2020-07-25 09:02:55] Starting vehicles
+[2020-07-25 09:02:55] start: Resource 'vehicles' started
+[2020-07-25 09:05:16] Resource 'fpslimit' changed, reloading
+[2020-07-25 09:05:16] ERROR: Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 09:05:16] Loading of resource 'fpslimit' failed
+[2020-07-25 09:05:16] ERROR: Problem with resource: fpslimit; Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.]
+[2020-07-25 09:05:16] Resources: 2 loaded, 1 failed
+[2020-07-25 09:05:21] start: Requested by Console
+[2020-07-25 09:05:21] start: Resource is loaded, but has errors (Couldn't parse meta file for resource 'fpslimit' [Line 0: Error document empty.])
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 02:44:40] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 02:44:40] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 02:44:40] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 02:44:40] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 02:44:40] Resources: 3 loaded, 0 failed
+[2020-07-26 02:44:40] Starting resources......
+[2020-07-26 02:44:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 02:44:40] WARNING: <owner_email_address> not set
+[2020-07-26 02:44:40] Server started and is ready to accept connections!
+[2020-07-26 02:44:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 02:44:40] Type 'help' for a list of commands.
+[2020-07-26 02:44:42] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 02:45:13] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-26 02:45:13] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-26 02:45:13] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-26 02:45:33] WARNING: vehicles\vehicles.lua:8: dbExec failed; (1) no such table: vehicles
+[2020-07-26 04:23:47] restart: Requested by Console
+[2020-07-26 04:23:47] restart: Resource restarting...
+[2020-07-26 04:23:47] Stopping vehicles
+[2020-07-26 04:23:47] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:23:47] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:23:47] Starting vehicles
+[2020-07-26 04:23:47] WARNING: vehicles\vehicles.lua:29: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2020-07-26 04:23:47] vehicles restarted successfully
+[2020-07-26 04:24:32] restart: Requested by Console
+[2020-07-26 04:24:32] restart: Resource restarting...
+[2020-07-26 04:24:32] Stopping vehicles
+[2020-07-26 04:24:32] Starting vehicles
+[2020-07-26 04:24:32] WARNING: vehicles\vehicles.lua:29: Bad argument @ 'dbQuery' [Expected db-connection at argument 2, got nil]
+[2020-07-26 04:24:32] vehicles restarted successfully
+[2020-07-26 04:24:47] restart: Requested by Console
+[2020-07-26 04:24:47] restart: Resource restarting...
+[2020-07-26 04:24:47] Stopping vehicles
+[2020-07-26 04:24:47] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:24:47] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:24:47] Starting vehicles
+[2020-07-26 04:24:47] vehicles restarted successfully
+[2020-07-26 04:25:30] restart: Requested by Console
+[2020-07-26 04:25:30] restart: Resource restarting...
+[2020-07-26 04:25:30] Stopping vehicles
+[2020-07-26 04:25:30] Starting vehicles
+[2020-07-26 04:25:30] vehicles restarted successfully
+[2020-07-26 04:25:40] restart: Requested by Console
+[2020-07-26 04:25:40] restart: Resource restarting...
+[2020-07-26 04:25:40] Stopping vehicles
+[2020-07-26 04:25:40] Starting vehicles
+[2020-07-26 04:25:40] vehicles restarted successfully
+[2020-07-26 04:35:42] restart: Requested by Console
+[2020-07-26 04:35:42] restart: Resource restarting...
+[2020-07-26 04:35:42] Stopping vehicles
+[2020-07-26 04:35:42] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:35:42] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:35:42] Starting vehicles
+[2020-07-26 04:35:42] vehicles restarted successfully
+[2020-07-26 04:36:39] restart: Requested by Console
+[2020-07-26 04:36:39] restart: Resource restarting...
+[2020-07-26 04:36:39] Stopping vehicles
+[2020-07-26 04:36:39] Starting vehicles
+[2020-07-26 04:36:39] vehicles restarted successfully
+[2020-07-26 04:47:28] restart: Requested by Console
+[2020-07-26 04:47:28] restart: Resource restarting...
+[2020-07-26 04:47:28] Stopping vehicles
+[2020-07-26 04:47:28] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:47:28] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:47:28] Starting vehicles
+[2020-07-26 04:47:28] SCRIPT ERROR: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:47:28] ERROR: Loading script failed: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:47:28] vehicles restarted successfully
+[2020-07-26 04:49:40] restart: Requested by Console
+[2020-07-26 04:49:40] restart: Resource restarting...
+[2020-07-26 04:49:40] Stopping vehicles
+[2020-07-26 04:49:40] Starting vehicles
+[2020-07-26 04:49:40] SCRIPT ERROR: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:49:40] ERROR: Loading script failed: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:49:40] vehicles restarted successfully
+[2020-07-26 04:50:43] restart: Requested by Console
+[2020-07-26 04:50:43] restart: Resource restarting...
+[2020-07-26 04:50:43] Stopping vehicles
+[2020-07-26 04:50:43] Starting vehicles
+[2020-07-26 04:50:43] SCRIPT ERROR: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:50:43] ERROR: Loading script failed: vehicles\vehicles.lua:46: unfinished string near '', resourceRoot, function ()'
+[2020-07-26 04:50:43] vehicles restarted successfully
+[2020-07-26 04:52:34] restart: Requested by Console
+[2020-07-26 04:52:34] restart: Resource restarting...
+[2020-07-26 04:52:34] Stopping vehicles
+[2020-07-26 04:52:34] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:52:34] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:52:34] Starting vehicles
+[2020-07-26 04:52:34] vehicles restarted successfully
+[2020-07-26 04:53:19] restart: Requested by Console
+[2020-07-26 04:53:19] restart: Resource restarting...
+[2020-07-26 04:53:19] Stopping vehicles
+[2020-07-26 04:53:19] ERROR: vehicles\vehicles.lua:48: attempt to call global 'getElemntsByType' (a nil value)
+[2020-07-26 04:53:19] Starting vehicles
+[2020-07-26 04:53:19] vehicles restarted successfully
+[2020-07-26 04:54:09] restart: Requested by Console
+[2020-07-26 04:54:09] restart: Resource restarting...
+[2020-07-26 04:54:09] Stopping vehicles
+[2020-07-26 04:54:09] ERROR: vehicles\vehicles.lua:48: attempt to call global 'getElemntsByType' (a nil value)
+[2020-07-26 04:54:09] Starting vehicles
+[2020-07-26 04:54:09] vehicles restarted successfully
+[2020-07-26 04:54:47] restart: Requested by Console
+[2020-07-26 04:54:47] restart: Resource restarting...
+[2020-07-26 04:54:47] Stopping vehicles
+[2020-07-26 04:54:47] ERROR: vehicles\vehicles.lua:48: attempt to call global 'getElemntsByType' (a nil value)
+[2020-07-26 04:54:47] Resource 'vehicles' changed, reloading and starting
+[2020-07-26 04:54:47] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:54:47] Starting vehicles
+[2020-07-26 04:54:47] vehicles restarted successfully
+[2020-07-26 04:55:28] Server stopped!
+[2020-07-26 04:55:28] Stopping resources.....
+[2020-07-26 04:55:28] ERROR: vehicles\vehicles.lua:47: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 04:55:28] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 04:55:28] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 04:55:28] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 04:55:40] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 04:55:40] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 04:55:40] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 04:55:40] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 04:55:40] Resources: 3 loaded, 0 failed
+[2020-07-26 04:55:40] Starting resources......
+[2020-07-26 04:55:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 04:55:40] WARNING: <owner_email_address> not set
+[2020-07-26 04:55:40] Server started and is ready to accept connections!
+[2020-07-26 04:55:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 04:55:40] Type 'help' for a list of commands.
+[2020-07-26 04:55:40] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 04:55:47] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-26 04:55:47] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-26 04:55:47] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-26 04:56:06] restart: Requested by Console
+[2020-07-26 04:56:06] restart: Resource restarting...
+[2020-07-26 04:56:06] Stopping vehicles
+[2020-07-26 04:56:06] Starting vehicles
+[2020-07-26 04:56:06] vehicles restarted successfully
+[2020-07-26 04:57:28] restart: Requested by Console
+[2020-07-26 04:57:28] restart: Resource restarting...
+[2020-07-26 04:57:28] Stopping vehicles
+[2020-07-26 04:57:28] Starting vehicles
+[2020-07-26 04:57:28] vehicles restarted successfully
+[2020-07-26 05:09:09] Server stopped!
+[2020-07-26 05:09:09] Stopping resources.....
+[2020-07-26 05:09:09] ERROR: vehicles\vehicles.lua:47: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 05:09:09] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 05:09:09] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 05:09:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 05:09:16] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 05:09:16] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 05:09:16] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 05:09:16] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 05:09:16] Resources: 3 loaded, 0 failed
+[2020-07-26 05:09:16] Starting resources......
+[2020-07-26 05:09:16] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 05:09:16] WARNING: <owner_email_address> not set
+[2020-07-26 05:09:16] Server started and is ready to accept connections!
+[2020-07-26 05:09:16] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 05:09:16] Type 'help' for a list of commands.
+[2020-07-26 05:09:16] Querying MTA master server... success! (Auto detected IP:124.122.129.236)
+[2020-07-26 05:09:22] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-26 05:09:22] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-26 05:09:22] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-26 05:09:46] restart: Requested by Console
+[2020-07-26 05:09:46] restart: Resource restarting...
+[2020-07-26 05:09:46] Stopping vehicles
+[2020-07-26 05:09:46] Starting vehicles
+[2020-07-26 05:09:46] vehicles restarted successfully
+[2020-07-26 05:10:16] restart: Requested by Console
+[2020-07-26 05:10:16] restart: Resource restarting...
+[2020-07-26 05:10:16] Stopping vehicles
+[2020-07-26 05:10:16] Starting vehicles
+[2020-07-26 05:10:16] vehicles restarted successfully
+[2020-07-26 05:16:19] restart: Requested by Console
+[2020-07-26 05:16:19] restart: Resource restarting...
+[2020-07-26 05:16:19] Stopping vehicles
+[2020-07-26 05:16:19] Starting vehicles
+[2020-07-26 05:16:19] vehicles restarted successfully
+[2020-07-26 05:18:04] Server stopped!
+[2020-07-26 05:18:04] Stopping resources.....
+[2020-07-26 05:18:04] ERROR: vehicles\vehicles.lua:47: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 05:18:04] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 05:18:04] WARNING: vehicles\vehicles.lua:55: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-26 05:18:04] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:07:03] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:07:03] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:07:03] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:07:03] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:07:03] Resources: 3 loaded, 0 failed
+[2020-07-26 11:07:03] Starting resources......
+[2020-07-26 11:07:03] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:07:03] WARNING: <owner_email_address> not set
+[2020-07-26 11:07:03] Server started and is ready to accept connections!
+[2020-07-26 11:07:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:07:03] Type 'help' for a list of commands.
+[2020-07-26 11:07:03] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:07:03] ERROR: vehicles\vehicles.lua:36: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:07:04] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:08:36] Server stopped!
+[2020-07-26 11:08:36] Stopping resources.....
+[2020-07-26 11:08:36] ERROR: vehicles\vehicles.lua:49: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:08:36] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:08:40] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:08:40] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:08:40] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:08:40] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:08:40] Resources: 3 loaded, 0 failed
+[2020-07-26 11:08:40] Starting resources......
+[2020-07-26 11:08:40] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:08:40] WARNING: <owner_email_address> not set
+[2020-07-26 11:08:40] Server started and is ready to accept connections!
+[2020-07-26 11:08:40] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:08:40] Type 'help' for a list of commands.
+[2020-07-26 11:08:40] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:08:40] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:08:40] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:09:10] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-26 11:09:10] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-26 11:09:12] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-26 11:09:19] start: Requested by Console
+[2020-07-26 11:09:19] start: Resource is already running
+[2020-07-26 11:09:23] restart: Requested by Console
+[2020-07-26 11:09:23] restart: Resource restarting...
+[2020-07-26 11:09:23] Stopping vehicles
+[2020-07-26 11:09:23] Starting vehicles
+[2020-07-26 11:09:23] vehicles restarted successfully
+[2020-07-26 11:09:23] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:09:23] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:13:22] * Syntax: restart <resource-name>
+[2020-07-26 11:13:24] Server stopped!
+[2020-07-26 11:13:24] Stopping resources.....
+[2020-07-26 11:13:24] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:13:24] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:13:28] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:13:28] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:13:28] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:13:28] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:13:28] Resources: 3 loaded, 0 failed
+[2020-07-26 11:13:28] Starting resources......
+[2020-07-26 11:13:28] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:13:28] WARNING: <owner_email_address> not set
+[2020-07-26 11:13:28] Server started and is ready to accept connections!
+[2020-07-26 11:13:28] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:13:28] Type 'help' for a list of commands.
+[2020-07-26 11:13:28] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:13:28] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:13:28] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:15:26] Server stopped!
+[2020-07-26 11:15:26] Stopping resources.....
+[2020-07-26 11:15:26] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:15:26] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:15:32] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:15:32] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:15:32] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:15:32] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:15:32] Resources: 3 loaded, 0 failed
+[2020-07-26 11:15:32] Starting resources......
+[2020-07-26 11:15:32] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:15:32] WARNING: <owner_email_address> not set
+[2020-07-26 11:15:32] Server started and is ready to accept connections!
+[2020-07-26 11:15:32] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:15:32] Type 'help' for a list of commands.
+[2020-07-26 11:15:32] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]
+[2020-07-26 11:15:32] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:15:32] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:16:09] Server stopped!
+[2020-07-26 11:16:09] Stopping resources.....
+[2020-07-26 11:16:09] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:16:09] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:16:12] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:16:12] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:16:12] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:16:12] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:16:12] Resources: 3 loaded, 0 failed
+[2020-07-26 11:16:12] Starting resources......
+[2020-07-26 11:16:12] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:16:12] WARNING: <owner_email_address> not set
+[2020-07-26 11:16:12] Server started and is ready to accept connections!
+[2020-07-26 11:16:12] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:16:12] Type 'help' for a list of commands.
+[2020-07-26 11:16:12] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected number at argument 1, got nil]
+[2020-07-26 11:16:12] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:16:13] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:16:33] restart: Resource could not be found
+[2020-07-26 11:16:35] Server stopped!
+[2020-07-26 11:16:36] Stopping resources.....
+[2020-07-26 11:16:36] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:16:36] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:16:39] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:16:39] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:16:39] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:16:39] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:16:39] Resources: 3 loaded, 0 failed
+[2020-07-26 11:16:39] Starting resources......
+[2020-07-26 11:16:39] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:16:39] WARNING: <owner_email_address> not set
+[2020-07-26 11:16:39] Server started and is ready to accept connections!
+[2020-07-26 11:16:39] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:16:39] Type 'help' for a list of commands.
+[2020-07-26 11:16:39] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:16:39] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-26 11:16:39] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:32:42] Server stopped!
+[2020-07-26 11:32:42] Stopping resources.....
+[2020-07-26 11:32:42] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:32:42] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:32:48] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:32:48] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:32:48] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:32:48] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:32:48] Resources: 3 loaded, 0 failed
+[2020-07-26 11:32:48] Starting resources......
+[2020-07-26 11:32:48] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:32:48] WARNING: <owner_email_address> not set
+[2020-07-26 11:32:48] Server started and is ready to accept connections!
+[2020-07-26 11:32:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:32:48] Type 'help' for a list of commands.
+[2020-07-26 11:32:48] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:32:48] ERROR: vehicles\vehicles.lua:38: attempt to call local 'vehicleObject' (a boolean value)
+[2020-07-26 11:32:48] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:33:57] Server stopped!
+[2020-07-26 11:33:57] Stopping resources.....
+[2020-07-26 11:33:57] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:33:57] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:34:00] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:34:00] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:34:00] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:34:00] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:34:00] Resources: 3 loaded, 0 failed
+[2020-07-26 11:34:00] Starting resources......
+[2020-07-26 11:34:00] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:34:00] WARNING: <owner_email_address> not set
+[2020-07-26 11:34:00] Server started and is ready to accept connections!
+[2020-07-26 11:34:00] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:34:00] Type 'help' for a list of commands.
+[2020-07-26 11:34:00] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:34:00] ERROR: vehicles\vehicles.lua:38: attempt to call local 'vehicleObject' (a boolean value)
+[2020-07-26 11:34:00] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:35:38] Server stopped!
+[2020-07-26 11:35:38] Stopping resources.....
+[2020-07-26 11:35:38] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-26 11:35:38] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-26 11:35:41] Unknown script type specified in db. Assuming 'server'
+[2020-07-26 11:35:41] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-26 11:35:41] Unknown script type specified in players. Assuming 'server'
+[2020-07-26 11:35:41] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-26 11:35:41] Resources: 3 loaded, 0 failed
+[2020-07-26 11:35:41] Starting resources......
+[2020-07-26 11:35:41] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-26 11:35:41] WARNING: <owner_email_address> not set
+[2020-07-26 11:35:41] Server started and is ready to accept connections!
+[2020-07-26 11:35:41] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-26 11:35:41] Type 'help' for a list of commands.
+[2020-07-26 11:35:41] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:35:41] ERROR: vehicles\vehicles.lua:38: attempt to call local 'vehicleObject' (a boolean value)
+[2020-07-26 11:35:42] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-26 11:35:55] restart: Requested by Console
+[2020-07-26 11:35:55] restart: Resource restarting...
+[2020-07-26 11:35:55] Stopping vehicles
+[2020-07-26 11:35:55] Starting vehicles
+[2020-07-26 11:35:55] vehicles restarted successfully
+[2020-07-26 11:35:55] WARNING: vehicles\vehicles.lua:33: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-26 11:35:55] ERROR: vehicles\vehicles.lua:38: attempt to call local 'vehicleObject' (a boolean value)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-27 02:50:20] Compacting accounts database 'internal.db' ...
+[2020-07-27 02:50:20] Unknown script type specified in db. Assuming 'server'
+[2020-07-27 02:50:20] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-27 02:50:20] Unknown script type specified in players. Assuming 'server'
+[2020-07-27 02:50:20] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-27 02:50:20] Resources: 3 loaded, 0 failed
+[2020-07-27 02:50:20] Compacting database 'registry.db' ...
+[2020-07-27 02:50:20] Starting resources......
+[2020-07-27 02:50:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-27 02:50:20] WARNING: <owner_email_address> not set
+[2020-07-27 02:50:20] Server started and is ready to accept connections!
+[2020-07-27 02:50:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-27 02:50:20] Type 'help' for a list of commands.
+[2020-07-27 02:50:20] WARNING: vehicles\vehicles.lua:34: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-27 02:50:20] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-27 02:50:22] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+[2020-07-27 02:50:38] Available commands:
+
+start                    stop                     stopall                  
+restart                  refresh                  refreshall               
+list                     info                     upgrade                  
+check                    say                      teamsay                  
+msg                      me                       nick                     
+login                    logout                   chgmypass                
+addaccount               delaccount               chgpass                  
+shutdown                 aexec                    whois                    
+debugscript              help                     loadmodule               
+unloadmodule             reloadmodule             ver                      
+sver                     ase                      openports                
+debugdb                  reloadbans               aclrequest               
+authserial               reloadacl                debugjoinflood           
+debuguptime              sfakelag                 
+[2020-07-27 02:51:21] Server stopped!
+[2020-07-27 02:51:21] Stopping resources.....
+[2020-07-27 02:51:21] ERROR: vehicles\vehicles.lua:51: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-27 02:51:21] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-27 02:51:47] Unknown script type specified in db. Assuming 'server'
+[2020-07-27 02:51:47] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-27 02:51:47] Unknown script type specified in players. Assuming 'server'
+[2020-07-27 02:51:47] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-27 02:51:47] Resources: 3 loaded, 0 failed
+[2020-07-27 02:51:47] Starting resources......
+[2020-07-27 02:51:47] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-27 02:51:47] WARNING: <owner_email_address> not set
+[2020-07-27 02:51:47] Server started and is ready to accept connections!
+[2020-07-27 02:51:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-27 02:51:47] Type 'help' for a list of commands.
+[2020-07-27 02:51:47] WARNING: vehicles\vehicles.lua:34: Bad argument @ 'createVehicle' [Expected vector3 at argument 5, got boolean]
+[2020-07-27 02:51:47] ERROR: vehicles\vehicles.lua:38: Bad argument @ 'setElementData' [Expected element at argument 1, got boolean]
+[2020-07-27 02:51:48] Querying MTA master server... success! (Auto detected IP:180.183.106.69)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-28 09:20:35] Unknown script type specified in db. Assuming 'server'
+[2020-07-28 09:20:35] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-28 09:20:35] Unknown script type specified in players. Assuming 'server'
+[2020-07-28 09:20:35] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-28 09:20:35] Resources: 3 loaded, 0 failed
+[2020-07-28 09:20:35] Starting resources......
+[2020-07-28 09:20:35] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-28 09:20:35] WARNING: <owner_email_address> not set
+[2020-07-28 09:20:35] Server started and is ready to accept connections!
+[2020-07-28 09:20:35] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-28 09:20:35] Type 'help' for a list of commands.
+[2020-07-28 09:20:38] Querying MTA master server... success! (Auto detected IP:180.183.107.22)
+[2020-07-28 09:20:54] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-28 09:20:54] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-28 09:20:56] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-28 09:21:06] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:21:06] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:21:32] restart: Requested by Console
+[2020-07-28 09:21:32] restart: Resource restarting...
+[2020-07-28 09:21:32] Stopping vehicles
+[2020-07-28 09:21:32] Starting vehicles
+[2020-07-28 09:21:32] vehicles restarted successfully
+[2020-07-28 09:25:06] restart: Requested by Console
+[2020-07-28 09:25:06] restart: Resource restarting...
+[2020-07-28 09:25:06] Stopping vehicles
+[2020-07-28 09:25:06] Starting vehicles
+[2020-07-28 09:25:06] vehicles restarted successfully
+[2020-07-28 09:25:12] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:25:12] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:25:26] restart: Requested by Console
+[2020-07-28 09:25:26] restart: Resource restarting...
+[2020-07-28 09:25:26] Stopping vehicles
+[2020-07-28 09:25:26] Starting vehicles
+[2020-07-28 09:25:26] vehicles restarted successfully
+[2020-07-28 09:26:21] restart: Requested by Console
+[2020-07-28 09:26:21] restart: Resource restarting...
+[2020-07-28 09:26:21] Stopping vehicles
+[2020-07-28 09:26:21] Starting vehicles
+[2020-07-28 09:26:21] vehicles restarted successfully
+[2020-07-28 09:26:27] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:26:30] restart: Requested by Console
+[2020-07-28 09:26:30] restart: Resource restarting...
+[2020-07-28 09:26:30] Stopping vehicles
+[2020-07-28 09:26:30] Starting vehicles
+[2020-07-28 09:26:30] vehicles restarted successfully
+[2020-07-28 09:26:33] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:26:33] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:26:33] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:27:03] Server stopped!
+[2020-07-28 09:27:03] Stopping resources.....
+[2020-07-28 09:27:03] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-28 09:27:03] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-28 09:27:03] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-28 09:27:09] Unknown script type specified in db. Assuming 'server'
+[2020-07-28 09:27:09] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-28 09:27:09] Unknown script type specified in players. Assuming 'server'
+[2020-07-28 09:27:09] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-28 09:27:09] Resources: 3 loaded, 0 failed
+[2020-07-28 09:27:09] Starting resources......
+[2020-07-28 09:27:09] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-28 09:27:09] WARNING: <owner_email_address> not set
+[2020-07-28 09:27:09] Server started and is ready to accept connections!
+[2020-07-28 09:27:09] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-28 09:27:09] Type 'help' for a list of commands.
+[2020-07-28 09:27:09] Querying MTA master server... success! (Auto detected IP:180.183.107.22)
+[2020-07-28 09:27:17] restart: Requested by Console
+[2020-07-28 09:27:17] restart: Resource restarting...
+[2020-07-28 09:27:17] Stopping vehicles
+[2020-07-28 09:27:17] Starting vehicles
+[2020-07-28 09:27:17] vehicles restarted successfully
+[2020-07-28 09:27:24] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-28 09:27:24] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-28 09:27:24] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-28 09:27:32] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:27:32] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:35:39] restart: Requested by Console
+[2020-07-28 09:35:39] restart: Resource restarting...
+[2020-07-28 09:35:39] Stopping vehicles
+[2020-07-28 09:35:39] Starting vehicles
+[2020-07-28 09:35:39] vehicles restarted successfully
+[2020-07-28 09:35:42] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:35:42] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:35:46] restart: Requested by Console
+[2020-07-28 09:35:46] restart: Resource restarting...
+[2020-07-28 09:35:46] Stopping vehicles
+[2020-07-28 09:35:46] Starting vehicles
+[2020-07-28 09:35:46] vehicles restarted successfully
+[2020-07-28 09:38:15] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:38:21] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:38:24] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:38:24] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:38:30] WARNING: vehicles\vehicles.lua:9: dbExec failed; (1) SQL logic error
+[2020-07-28 09:38:30] ERROR: vehicles\vehicles.lua:19: attempt to index local 'vehicle' (a nil value)
+[2020-07-28 09:38:42] restart: Resource could not be found
+[2020-07-28 09:38:50] restart: Requested by Console
+[2020-07-28 09:38:50] restart: Resource restarting...
+[2020-07-28 09:38:50] Stopping vehicles
+[2020-07-28 09:38:50] Starting vehicles
+[2020-07-28 09:38:50] vehicles restarted successfully
+[2020-07-28 09:42:11] Server stopped!
+[2020-07-28 09:42:11] Stopping resources.....
+[2020-07-28 09:42:11] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-28 09:42:11] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.7
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..TA/TommyMTA/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2020-07-28 09:46:51] Unknown script type specified in db. Assuming 'server'
+[2020-07-28 09:46:51] Unknown exported function type specified in db. Assuming 'server'
+[2020-07-28 09:46:51] Unknown script type specified in players. Assuming 'server'
+[2020-07-28 09:46:51] Unknown script type specified in vehicles. Assuming 'server'
+[2020-07-28 09:46:51] Resources: 3 loaded, 0 failed
+[2020-07-28 09:46:51] Starting resources......
+[2020-07-28 09:46:51] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2020-07-28 09:46:51] WARNING: <owner_email_address> not set
+[2020-07-28 09:46:51] Server started and is ready to accept connections!
+[2020-07-28 09:46:51] To stop the server, type 'shutdown' or press Ctrl-C
+[2020-07-28 09:46:51] Type 'help' for a list of commands.
+[2020-07-28 09:46:52] Querying MTA master server... success! (Auto detected IP:180.183.107.22)
+[2020-07-28 09:46:56] restart: Requested by Console
+[2020-07-28 09:46:56] restart: Resource restarting...
+[2020-07-28 09:46:56] Stopping vehicles
+[2020-07-28 09:46:56] Starting vehicles
+[2020-07-28 09:46:56] vehicles restarted successfully
+[2020-07-28 09:47:02] Server minclientversion is now 1.5.7-9.20447.0
+[2020-07-28 09:47:02] CONNECT: DelicateAnteater6 connected (IP: 127.0.0.1  Serial: DB4D21BEF215B3913743A679489FB224  Version: 1.5.7-9.20601.0)
+[2020-07-28 09:47:02] JOIN: DelicateAnteater6 joined the game (IP: 127.0.0.1)
+[2020-07-28 09:47:12] restart: Requested by Console
+[2020-07-28 09:47:12] restart: Resource restarting...
+[2020-07-28 09:47:12] Stopping vehicles
+[2020-07-28 09:47:12] Starting vehicles
+[2020-07-28 09:47:12] vehicles restarted successfully
+[2020-07-28 09:47:26] restart: Requested by Console
+[2020-07-28 09:47:26] restart: Resource restarting...
+[2020-07-28 09:47:26] Stopping vehicles
+[2020-07-28 09:47:26] Starting vehicles
+[2020-07-28 09:47:26] vehicles restarted successfully
+[2020-07-28 09:48:15] restart: Requested by Console
+[2020-07-28 09:48:15] restart: Resource restarting...
+[2020-07-28 09:48:15] Stopping vehicles
+[2020-07-28 09:48:15] Starting vehicles
+[2020-07-28 09:48:15] vehicles restarted successfully
+[2020-07-28 09:48:25] Server stopped!
+[2020-07-28 09:48:25] Stopping resources.....
+[2020-07-28 09:48:25] ERROR: vehicles\vehicles.lua:50: exports: Call to non-running server resource (db) [string "?"]
+[2020-07-28 09:48:25] WARNING: vehicles\vehicles.lua:59: Bad argument @ 'dbExec' [Expected db-connection at argument 1, got nil]
+[2020-07-28 09:48:25] Closing SQLite3 database

@@ -1,0 +1,6 @@
+
+<meta>
+    <script src="db.lua" type="TommyMTA"/>
+
+    <export function="getConnection" type="TommyMTA"/>
+</meta>
